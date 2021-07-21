@@ -1,7 +1,7 @@
 Identifying and Recommending best restaurants:
-Main goal of the project is to analyze the data and identify best restaurants and generate recommendations
+Main goal of the project is to do analysis on the provided restaurant data and identify best restaurants and generate recommendations
 
-Preliminary Analsis:
+Preliminary Analysis:
 This repository contains a dataset of restaurants around the world.  Data inspection is done to find structure of the data, duplicate and missing values and cleaning variable names etc.
 
 Performing EDA Analysis: Preliminary report is created by verifying several things in the provided dataset.
